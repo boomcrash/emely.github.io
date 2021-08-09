@@ -449,7 +449,7 @@ a:focus {
 }
 
 .section-header h2 {
-    margin: 0;
+    margin: 0 30px;
     position: relative;
     font-size: 45px;
     font-weight: 700;
@@ -458,8 +458,8 @@ a:focus {
 .section-header h4 {
     margin: 0;
     position: relative;
-    font-size: 16px;
-    font-weight: 500;
+    font-size: 17px;
+    font-weight: 400;
 }
 
 @media (max-width: 767.98px) {
@@ -511,7 +511,7 @@ a:focus {
 }
 
 .about .skill-name {
-    margin-top: 5px;
+    margin-top: 50px;
 }
 
 .about .skill-name p {
