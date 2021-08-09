@@ -455,6 +455,13 @@ a:focus {
     font-weight: 700;
 }
 
+.section-header h4 {
+    margin: 0;
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+}
+
 @media (max-width: 767.98px) {
     .section-header h2 {
         font-size: 30px;
@@ -496,7 +503,7 @@ a:focus {
 }
 
 .about .about-text p {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .about .skills {
@@ -504,7 +511,7 @@ a:focus {
 }
 
 .about .skill-name {
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 .about .skill-name p {
@@ -1031,11 +1038,4 @@ a:focus {
         line-height: 16px;
         padding: 0 5px;
     }
-}
-.porcentaje{
-    margin-left: 500px;
-}
-
-.lengua{
-    margin-right: 10px;
 }
