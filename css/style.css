@@ -510,10 +510,10 @@ a:focus {
 .about .skills {
     padding: 50px;
 }
-
+/*
 .about .skill-name {
     padding: 5px 0px;
-}
+}*/
 
 .about .skill-name h4 {
 /*    display: inline-block; */
@@ -529,7 +529,7 @@ a:focus {
     height: 10px;
     border-radius: 10px;
     background: #dddddd;
-    padding: 5px 0 15px;
+    padding: 5px 0 15px 0;
 }
 
 .about .progress .progress-bar {
@@ -557,10 +557,10 @@ a:focus {
     padding: 45px 0 15px 0;
 }
 
-/*
+
 .ex .col-lg-6 {
-    padding: 0 20px 20px;
-}*/
+    padding: 0 15px 20px 15px;
+}
 
 .experience {
     position: relative;
