@@ -508,14 +508,14 @@ a:focus {
 }
 
 .about .skills {
-    margin: 50px;
+    padding: 50px;
 }
 
 .about .skill-name {
-    margin: 50px 0 5px 0;
+    padding: 5px 0px;
 }
 
-.about .skill-name p {
+.about .skill-name h4 {
 /*    display: inline-block; */
     font-size: 16px;
     font-weight: 400;
@@ -529,7 +529,7 @@ a:focus {
     height: 10px;
     border-radius: 10px;
     background: #dddddd;
-    margin: 8px, 0px, 19.2px;
+    margin: 8px 0px 19.2px;
 }
 
 .about .progress .progress-bar {
