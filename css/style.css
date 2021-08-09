@@ -529,7 +529,7 @@ a:focus {
     height: 10px;
     border-radius: 10px;
     background: #dddddd;
-    margin: 8px 0px 19.2px;
+    padding: 5px 0 15px;
 }
 
 .about .progress .progress-bar {
@@ -551,11 +551,15 @@ a:focus {
 
 
 
+
 .ex {
     position: relative;
     padding: 45px 0 15px 0;
 }
 
+.ex .col-lg-6 {
+    padding: 0 0 20px;
+}
 
 .experience {
     position: relative;
